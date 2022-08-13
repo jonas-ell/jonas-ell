@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonas-ell
 - 👀 I’m interested in coding Discord bots.
-- 🌱 I’m currently learning JavaScript, Python & Html
+- 🌱 I’m currently learning JavaScript, Python & HTML
 - 📫 How to reach me: Jonasツ#6969 on Discord
 
 <!---
